@@ -8,12 +8,3 @@ while binary > 0:
     binary //= 10
 print(decimal)
 
-
-#ippudu oka sample folder teeskunnam
-#dantlo oka task1.py file vesam
-#ardam aindaha
-
-# ardham ayindhi
-#2. Ippudu terminal open cheyyali
-#ippudu same neelane osthundi choodu
-#ippudu malli save cheyyali
