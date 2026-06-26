@@ -8,3 +8,4 @@ while binary > 0:
     binary //= 10
 print(decimal)
 
+Kotha repo chesthunna adhi errors osthundi Square

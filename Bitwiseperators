@@ -1,0 +1,27 @@
+a=10
+b=5
+print("addition:",a+b)
+a=5
+b=6
+print("subtraction:",a-b)
+a=30
+b=50
+print("Multiplication:",a*b)
+a=30
+b=20
+print("Division:",a/b)
+a=30
+b=40
+print("Remainder:",a%b)
+a=24
+b=30
+print("Square:",a**2)
+a=10
+b=20
+print("Cube:",a**3)
+obtained_marks=200
+total_marks=700
+percentage=(obtained_marks / total_marks) * 100
+print("percentage:",percentage)
+
+
