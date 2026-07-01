@@ -7,5 +7,3 @@ while binary > 0:
     power += 1
     binary //= 10
 print(decimal)
-
-Kotha repo chesthunna adhi errors osthundi Square

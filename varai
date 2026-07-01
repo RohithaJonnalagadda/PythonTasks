@@ -24,3 +24,4 @@ if s1>=35 and s2>=35 and s3>=35 and s4>=35 and s5>=35 and s6<=35:
 else:
     print("Fail")
 
+    
